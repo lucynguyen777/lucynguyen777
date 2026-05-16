@@ -153,13 +153,19 @@ Research Automation
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucynguyen777&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucynguyen777&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucynguyen777&layout=compact&theme=synthwave&hide_border=true&border_radius=10" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucynguyen777&layout=compact&theme=synthwave&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=lucynguyen777&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakLabel=FF69B4" />
 
 </div>
 
@@ -179,14 +185,10 @@ Research Automation
 
 <div align="center">
 
-  <img src="https://github.com/lucynguyen777/lucynguyen777/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucynguyen777/lucynguyen777/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucynguyen777/lucynguyen777/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/lucynguyen777/lucynguyen777/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 </div>
