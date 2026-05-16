@@ -149,18 +149,6 @@ Research Automation
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucynguyen777&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucynguyen777&layout=compact&theme=synthwave&hide_border=true&border_radius=10" />
-
-</div>
-
----
-
 
 ### 🔥 GitHub Streak
 
