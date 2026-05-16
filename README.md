@@ -161,15 +161,6 @@ Research Automation
 
 ---
 
-### 🔥 GitHub Streak
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=lucynguyen777&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakLabel=FF69B4" />
-
-</div>
-
----
 
 ### 🔥 GitHub Streak
 
