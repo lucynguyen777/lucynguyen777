@@ -8,7 +8,7 @@
   <br>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=lucynguyen777&color=blueviolet" alt="Profile Views" />
   </p>
 
 </div>
@@ -123,15 +123,15 @@ Research Automation
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/lucynguyen777">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nguyenthuha203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="YOUR_LINKEDIN">
+  <a href="linkedin.com/in/nguyenthithuha203">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
@@ -143,7 +143,7 @@ Research Automation
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucynguyen777&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
@@ -154,11 +154,11 @@ Research Automation
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucynguyen777&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucynguyen777&layout=compact&theme=synthwave&hide_border=true&border_radius=10" />
   </a>
 
 </div>
@@ -169,7 +169,7 @@ Research Automation
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakLabel=FF69B4" />
+  <img src="https://streak-stats.demolab.com?user=lucynguyen777&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakLabel=FF69B4" />
 
 </div>
 
@@ -179,7 +179,7 @@ Research Automation
 
 <div align="center">
 
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/lucynguyen777/lucynguyen777/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
